@@ -1,13 +1,13 @@
 {
   "version": {
     "minor": 0,
-    "build": 5,
-    "patch": 5,
+    "build": 1,
+    "patch": 1,
     "major": 0
   },
-  "appname": "magic-people",
-  "dnsprod": "people.intra.nexigroup.com",
-  "dnstest": "people-test.intra.nexigroup.com",
-  "imagename": "ghcr.io/magicbutton/magic-people",
+  "appname": "app-sandbox",
+  "dnsprod": "sandbox.intra.nexigroup.com",
+  "dnstest": "sandbox-test.intra.nexigroup.com",
+  "imagename": "ghcr.io/nexi-intra/app-sandbox",
   "port": 4444
 }

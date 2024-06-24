@@ -52,11 +52,6 @@ export default function Layout(props: { children: any }) {
                     MSAL Test
                   </Link>
                 </MenubarItem>
-                <MenubarItem>
-                  <Link href="/magic/services" className="w-full">
-                    Microservices
-                  </Link>
-                </MenubarItem>
               </MenubarContent>
             </MenubarMenu>
           </Menubar>
